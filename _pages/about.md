@@ -6,11 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Summary of the website's purpose.
 
-About me
+About Me:
 =====
-Biographical and personal information.
+Personal information.
 
-About this website
+About this Website:
 =====
 Information about this website's contents.
