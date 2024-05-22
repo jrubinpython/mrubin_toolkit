@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "The Toolkit"
-    url: https://jrubinpython.github.io/mrubin_toolkit/toolkit/
+    url: /toolkit/
 
   - title: "Additional Files"
-    url: https://jrubinpython.github.io/mrubin_toolkit/additional/
+    url: /additional/
 
   # - title: "Teaching"
   #   url: /teaching/    
